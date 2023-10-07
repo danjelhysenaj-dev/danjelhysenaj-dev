@@ -39,8 +39,8 @@
 ## ⚡ My GitHub Stats
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=danjelhysenaj-dev&show_icons=true&theme=gotham" alt="danjelhysenaj-dev" />
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=danjelhysenaj-dev&show_icons=true&line_height=27&include_all_commits=true"/> 
+<img align="center" src="https://github-readme-stats.danjelhysenaj-dev.vercel.app/api?username=danjelhysenaj-dev&show_icons=true&line_height=27&include_all_commits=true"/> 
 
  -->
- | <a href="https://github.com/vikash-kumar01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danjelhysenaj-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danjelhysenaj-dev&layout=compact&theme=buefy&hide_border=true" /></a> |
+ | <a href="https://github.com/vikash-kumar01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danjelhysenaj-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Danjel's github stats" /></a> | <a href="https://github.com/danjelhysenaj-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danjelhysenaj-dev&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
