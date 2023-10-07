@@ -37,11 +37,15 @@
 ![Confluence](https://img.shields.io/badge/-Confluence-000?&style=for-the-badge&logo=Confluence-Software&logoColor=0052CC)
 
 ## ⚡ My GitHub Stats
-<!-- <p align="left"> <img src="[https://github-readme-stats.vercel.app](https://github.com/anuraghazra/github-readme-stats)/api?username=danjelhysenaj-dev&show_icons=true&theme=gotham" alt="danjelhysenaj-dev" />
+<!--
+https://github.com/anuraghazra/github-readme-stats
+All inbuilt themes :-
+white, radical, merko, gruvbox, tokyonight, cobalt, synthwave, highcontrast
 
-<img align="center" src="https://github-readme-stats.danjelhysenaj-dev.vercel.app/api?username=danjelhysenaj-dev&show_icons=true&line_height=27&include_all_commits=true"/> 
+&theme=white (to add the theme to below stats)
+-->
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=danjelhysenaj-dev&show_icons=true)
 
- -->
- | <a href="https://github.com/danjelhysenaj-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danjelhysenaj-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Danjel's github stats" /></a> | <a href="https://github.com/danjelhysenaj-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danjelhysenaj-dev&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danjelhysenaj-dev&theme=blue-green&layout=compact)
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=danjelhysenaj-dev)
