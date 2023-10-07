@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with making presentations that help people learn for free<br/>
 - 💬 Ask me questions related to DevOps!<br/>
 - 📫 How to reach me: Email: hysenajdanjel@gmail.com<br/>
-- ⚡ Fun fact: I love learning new stuff that is related to tech, reading tech blogs & reading Manga. I would define myself as IGIGUY a person who is driven & dedicated towards his dreams and goals. <br/>
+- ⚡ Fun fact: I love learning new stuff that is related to tech, reading tech blogs & reading Manga. I would define myself as IKIGAI a person who is driven & dedicated towards his dreams and goals. <br/>
 
 ## ⚡ Tech Stack
 ![Azure DevOps](https://img.shields.io/badge/Azure-DevOps-E44C30?style=for-the-badge&logo=Azure-DevOps&logoColor=white)
