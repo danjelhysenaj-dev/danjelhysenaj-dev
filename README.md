@@ -40,7 +40,7 @@
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=danjelhysenaj-dev&show_icons=true&theme=gotham" alt="danjelhysenaj-dev" />
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=danjelhysenaj-dev&show_icons=true&line_height=27&include_all_commits=true"/> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danjelhysenaj-dev&hide=TeX&layout=compact)
+
  -->
  | <a href="https://github.com/vikash-kumar01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danjelhysenaj-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danjelhysenaj-dev&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
