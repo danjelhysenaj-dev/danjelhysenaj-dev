@@ -1,5 +1,5 @@
 <h2 align="center">Hello Everybody! 👋</h2>
-<p align="center">My name is Danjel, I am a Certified Azure DevOps Engineer Expert & Azure Solution Architect Expert | Azure Cybersecurity Architect Expert, with an experience of almost one decade in the field of IT industry, working with different cloud services such as Azure & AWS, Integrating and maintaining Security & infrastructure. Highly skilled in Cloud Computing and applying the fundamental rules of CI/CD DevOps pipelines in Azure. Currently working as Senior DevOps Engineer where my role consists of encompassed managing the entire development life-cycle, emphasizing test-driven development, and ensuring seamless integration through Azure DevOps. </p>
+<p align="center">My name is Danjel, I am a Platform DevOps Engineer, with an experience of almost one decade in the field of IT industry, working with different cloud services such as Azure & AWS, Integrating and maintaining Security & infrastructure. Highly skilled in Cloud Computing and applying the fundamental rules of CI/CD DevOps pipelines in Azure. Currently working as Senior DevOps Engineer where my role consists of encompassed managing the entire development life-cycle, emphasizing test-driven development, and ensuring seamless integration through Azure DevOps. </p>
 
 ## ⚡ Updates
 
