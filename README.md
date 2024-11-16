@@ -4,7 +4,7 @@
 ## ⚡ Updates
 
 - 🔭 I’m currently working as Platform DevOps Engineer at ABN AMRO N.V in the Netherlands <br/>
-- 🌱 GO Programmer in tentative 😃 <br/>
+- 🌱 GO Programmer 😃 <br/>
 - 🌱 Certified 5x in Azure Cloud Provider<br/>
 - 👯 Demonstrated experience through the years in Cloud Engineering and Site Reliability <br/>
 - 🤔 I’m looking for help with making presentations that help people learn for free<br/>
